@@ -3,6 +3,14 @@
 - ✨ reach the stars
 - 🐧 EN/US/PT/JP
 
+## About me!
+
+- 👾 Name: "Mallow"
+- 👾 Age: 19
+- 👾 Pronouns: Any
+- 👾 Location: Portugal
+- 👾 I code some funny AIs and build some funny bots (please kill me) 
+
 <div align="center">
   <a href="https://github.com/mycpphurts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycpphurts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

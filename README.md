@@ -8,7 +8,7 @@
 - 👾 Name: "Mallow"
 - 👾 Age: 19
 - 👾 Pronouns: Any
-- 👾 Location: Portugal
+- 👾 Location: Earth
 - 👾 I code some funny AIs and build some funny bots (please kill me) 
 
 <div align="center">

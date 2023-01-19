@@ -1,7 +1,7 @@
 ## ++hurting
 
-- ✨ reach the stars
-- 🐧 EN/US/PT/JP
+- 🩸 IB
+- 🐧 PT/EN
 
 ## About me!
 

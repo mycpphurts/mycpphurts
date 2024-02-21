@@ -2,7 +2,7 @@
 - Coding should be illegal for me.
 
 # ABOUTME.MD
-### Nerdy goober
+### [Nerdy goober](https://wallhack.xyz)
 
 - 20y  (04/28)
 - Name's mimir btw
